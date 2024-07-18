@@ -21,4 +21,6 @@ func main() {
 	fmt.Println("FUNC S: ", funcS())
 	fmt.Println("FUNC S: ", funcS())
 
+	internal.Variadics(1, 2, 3, 4, 5, 6, 7, 8, 9)
+
 }

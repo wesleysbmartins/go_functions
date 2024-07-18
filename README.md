@@ -1,5 +1,5 @@
 # Golang Function
-Estudos sobre Golang abordando funções simples, anônimas e closures.
+Estudos sobre Golang abordando funções simples, anônimas, funções variádicas e closures.
 
 * Funções simples
 * Funções simples com parametros
@@ -7,5 +7,6 @@ Estudos sobre Golang abordando funções simples, anônimas e closures.
 * Funções anônimas
 * Funções anônimas como retorno
 * Funções anônimas com parametros
+* Funções variádicas
 * Closures
 * Variáveis como função
